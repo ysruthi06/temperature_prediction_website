@@ -1,0 +1,41 @@
+body {
+    background: linear-gradient(135deg, #71b7e6, #9b59b6);
+    font-family: 'Arial', sans-serif;
+}
+
+.card {
+    border-radius: 15px;
+    background-color: #fff;
+    padding: 30px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    color: #333;
+}
+
+.form-group label {
+    color: #666;
+    font-weight: bold;
+}
+
+.btn-primary {
+    background-color: #3498db;
+    border: none;
+    border-radius: 25px;
+    padding: 10px;
+    font-size: 16px;
+}
+
+.btn-primary:hover {
+    background-color: #2980b9;
+}
+
+.alert {
+    border-radius: 25px;
+    font-size: 18px;
+}
+
+.container {
+    padding-top: 100px;
+}
